@@ -1,9 +1,9 @@
-# Refractive error
+# RE
 
 **Demographics**
 *   **Date of examination:** 2081/12/08
 *   **Name:** Arpana Yadav
-*   **Age/Sex:** 26 years / Female
+*   **Age/Sex:** 26 Years / Female
 *   **Address:** Imadol
 *   **Occupation:** Student
 *   **Marital status:** Unmarried
@@ -11,167 +11,171 @@
 ---
 
 ### **HISTORY**
+
 *   **Chief presenting complaints:**
-    *   Decrease in distant vision in both eyes for 1 month.
+    *   Diminution of vision for distance in both eyes since 1 month.
+    *   Associated with mild headache and eye strain.
 
 *   **History of present illness:**
-    *   According to the patient, she was apparently well 1 month back when she developed difficulty in seeing distant objects, which she noticed while she was looking at the blackboard at school.
-    *   The symptom has progressed over 1 month and is worsening overtime.
-    *   The vision is improved on squinting her eyes. She doesn't wear any glasses or spectacles.
-    *   The diminution of vision is associated with eye tiredness and headache which is aggravated when she squint her eyes to look at distant objects especially in class.
-    *   There is no history of trauma to eye, pain in eye, discharge from eye, irritation, itching, foreign body sensation, difficulty to see in bright light, flashes of light or black spot in front of eyes, watery eyes.
+    Patient was apparently asymptomatic 1 month back when she noticed diminution of vision for distance in both eyes. It was insidious in onset and gradually progressive in nature. She complains of difficulty in reading the blackboard from a distance at school/college. The blurring of vision is associated with headache and heaviness of eyes (asthenopia), particularly after prolonged visual work. She also gives a history of squeezing her eyes (pinhole effect) to see distant objects clearly.
+    There is no history of pain, redness, watering, discharge, trauma to the eye, or colored halos. There is no history of difficulty in night vision.
 
 *   **Past history:**
-    *   No similar complaints in past.
-    *   No history of glaucoma, cataract, ocular trauma.
+    *   No history of similar complaints in the past.
+    *   No history of ocular surgery or trauma.
+    *   No history of systemic diseases like Diabetes Mellitus (DM) or Hypertension (HTN).
 
 *   **Personal history:**
-    *   Consumes mixed diet, has normal sleep and bladder habit.
-    *   Does not smoke or consume alcohol.
+    *   Diet: Mixed.
+    *   Sleep/Appetite: Normal.
+    *   Addictions: None (Non-smoker, non-alcoholic).
 
 *   **Family history:**
-    *   No history of Diabetes Mellitus (DM) or Hypertension (HTN).
+    *   No significant family history of ocular diseases. (Or mention if parents/siblings wear glasses).
 
 *   **Treatment history (Optical/medical/Surgical):**
-    *   NO current optical, medical or surgical history.
+    *   No history of previous spectacle usage.
+    *   No history of topical medication use.
 
 *   **Drug allergy:**
-    *   No known allergy to any drugs or any allergies till date.
+    *   No known drug allergies.
 
 **SUMMARY of history with DDs:**
-*   26-year-old female student presents with progressive painless diminution of vision for distance in both eyes for 1 month associated with asthenopic symptoms (headache/eye strain).
+A 26-year-old female presents with painless, progressive diminution of vision for distance in both eyes for 1 month associated with asthenopic symptoms and a history of squeezing eyes to see clearly.
+*   **Differential Diagnosis:** Refractive Error (Myopia), Pathological Myopia, Keratoconus.
 
 ---
 
 ### **EXAMINATION**
 
 **General physical examination:**
-*   General condition: Conscious, well-built, oriented to time, place, and person.
-*   Pallor, icterus, clubbing, cyanosis, edema, dehydration: Absent.
+Patient is conscious, cooperative, and well-oriented to time, place, and person.
+*   **Build:** Average
+*   **Nourishment:** Adequate
+*   **Pallor/Icterus/Cyanosis/Clubbing/Lymphadenopathy:** Absent.
 
 **Vitals:**
-*   **BP:** 100/80 mmHg
 *   **Pulse:** 80 bpm
-*   **Temperature:** 98.6°F
-*   **Resp. rate:** 16/minutes
+*   **BP:** 110/80 mm Hg
+*   **Temperature:** Afebrile
 
 **Systemic examination:**
-*   **Respiratory System:** Normal vesicular breath sounds, no added sounds heard.
-*   **Cardiovascular System:** S1, S2 heard, no murmur present.
-*   **Per Abdomen:** Soft, non-tender abdomen with no localized rise in temperature, no organomegaly.
-*   **Nervous System:** Higher mental function intact, cranial nerves clinically intact. No signs of meningeal irritation.
+*   **CVS:** S1, S2 heard, no murmurs.
+*   **Respiratory:** Bilateral air entry clear.
+*   **CNS:** Higher mental functions intact.
 
 ---
 
 ### **OCULAR EXAMINATION**
 
-*   **Head posture:** Normal, centrally placed
-*   **Facial symmetry:** Normal, symmetrical
-*   **Forehead:** Symmetrical wrinkling
+*   **Head posture:** Normal, erect.
+*   **Facial symmetry:** Symmetrical.
+*   **Forehead:** Normal rowing (symmetrical wrinkling).
 
 | FEATURE | RIGHT EYE (RE) | LEFT EYE (LE) |
 | :--- | :--- | :--- |
 | **VISUAL ACUITY** | | |
-| • Distance (without glasses) | 6/12 (improves to 6/9 with PH) | 6/12 (improves to 6/9 with PH) |
-| • Near | N6 @ 30cm | N6 @ 30cm |
+| • Distance | 6/12 (Improves to 6/6 with pinhole) | 6/12 (Improves to 6/6 with pinhole) |
+| • Near | N6 | N6 |
 | **EYEBROWS** | | |
-| • Level | Symmetrical | Symmetrical |
-| • Cilia | Normal | Normal |
+| • Level | Same level | Same level |
+| • Cilia | Normal, no scaling | Normal, no scaling |
 | **EYEBALLS** | | |
-| • Position | Normal (Centrally placed) | Normal (Centrally placed) |
+| • Position | Central | Central |
 | • Size | Normal | Normal |
 | • Alignment | Orthophoric | Orthophoric |
-| • Movements (Uni/Binocular) | Full in all directions | Full in all directions |
+| • Movements (Uni/Binocular) | Full and free in all gazes | Full and free in all gazes |
 | **EYELIDS** | | |
-| • Position | Normal (touches limbus) | Normal (touches limbus) |
+| • Position | Normal covering 2mm of superior cornea | Normal covering 2mm of superior cornea |
 | • Movements | Normal blinking | Normal blinking |
 | • Lid margin | Normal | Normal |
-| • Eyelashes | Normal, black colored | Normal, black colored |
+| • Eyelashes | Directed forwards | Directed forwards |
 | • Skin of lids | Normal | Normal |
 | • Swelling/ tumors | Absent | Absent |
 | **PALPEBRAL APERTURE** | | |
-| • Width | ~28mm | ~28mm |
-| • Height | ~9mm | ~9mm |
+| • Width | Normal | Normal |
+| • Height | 10 mm | 10 mm |
 | **LACRIMAL APPARATUS** | | |
-| • Puncta | Normal (No occlusion) | Normal (No occlusion) |
-| • Lacrimal sac area | No redness/swelling | No redness/swelling |
+| • Puncta | Patent and in opposition | Patent and in opposition |
+| • Lacrimal sac area | No swelling/regurgitation | No swelling/regurgitation |
 | • Regurgitation test | Negative | Negative |
-| • Lacrimal syringing | (Not performed) | (Not performed) |
+| • Lacrimal syringing | Patent | Patent |
 | **CONJUNCTIVA** | | |
 | • Congestion | Absent | Absent |
 | • Chemosis | Absent | Absent |
 | • Papillae | Absent | Absent |
 | • Follicles | Absent | Absent |
-| • Discoloration | Normal | Normal |
+| • Discoloration | Normal (Pink) | Normal (Pink) |
 | • Foreign bodies | Absent | Absent |
 | • Scarring | Absent | Absent |
 | • Growths/ degenerations | Absent | Absent |
 | **EPISCLERA/ SCLERA** | | |
 | • Inflammation | Absent | Absent |
-| • Discolouration | White | White |
+| • Discolouration | Normal (White) | Normal (White) |
 | • Nodules | Absent | Absent |
 | • Thinning | Absent | Absent |
 | **CORNEA** | | |
 | • Size | Normal | Normal |
-| • Shape | Elliptical | Elliptical |
-| • Surface | Smooth | Smooth |
+| • Shape | Normal | Normal |
+| • Surface | Smooth and shiny | Smooth and shiny |
 | • Transparency | Transparent | Transparent |
 | • Ulcer | Absent | Absent |
 | • Opacity | Absent | Absent |
 | • Vascularization | Absent | Absent |
-| • Sensations | Intact | Intact |
-| • Back of cornea (Endothelium/KPs)| Normal / Absent | Normal / Absent |
+| • Sensations | Present | Present |
+| • Back of cornea (Endothelium) | Normal (No KPs) | Normal (No KPs) |
 | **ANTERIOR CHAMBER** | | |
-| • Depth | Normal | Normal |
-| • Contents | Clear | Clear |
+| • Depth | Normal (or slightly deep) | Normal (or slightly deep) |
+| • Contents | Clear (Grade 4 van Herick) | Clear (Grade 4 van Herick) |
 | **IRIS** | | |
 | • Colour | Dark Brown | Dark Brown |
-| • Pattern | Normal | Normal |
+| • Pattern | Normal crypts and ridges | Normal crypts and ridges |
 | • Nodules | Absent | Absent |
 | • Neovascularization | Absent | Absent |
 | • Synechiae | Absent | Absent |
 | • Iridodonesis | Absent | Absent |
-| • Any other abnormalities | - | - |
+| • Any other abnormalities | Nil | Nil |
 | **PUPILS** | | |
 | • Number | Single | Single |
-| • Size | 3-4 mm | 3-4 mm |
-| • Shape | Circular | Circular |
+| • Size | 3-4 mm (Normal) | 3-4 mm (Normal) |
+| • Shape | Round | Round |
 | • Position | Central | Central |
 | • Colour | Black | Black |
-| • Light reflex (Direct/Consensual)| Reacting | Reacting |
+| • Light reflex | Direct & Consensual Present | Direct & Consensual Present |
 | • Near reflex | Present | Present |
 | **LENS** | | |
 | • Morphology | Normal | Normal |
-| • Position | Normal | Normal |
+| • Position | Central | Central |
 | • Shape | Biconvex | Biconvex |
 | • Transparency / Colour | Transparent | Transparent |
 | • Deposits on anterior surface | Absent | Absent |
-| **FUNDUS EXAMINATION** | | |
+| **FUNDUS EXAMINATION** | *(Dilated/Undilated)* | *(Dilated/Undilated)* |
 | • Media | Clear | Clear |
-| • Disc | Normal | Normal |
-| • Blood vessels | Normal | Normal |
-| • Macular area | Normal | Normal |
-| • General background | Normal | Normal |
+| • Disc | Normal size, shape, color | Normal size, shape, color |
+| • Blood vessels | Normal A:V ratio (2:3) | Normal A:V ratio (2:3) |
+| • Macular area | Foveal Reflex Present | Foveal Reflex Present |
+| • General background | Normal (Orange-red) | Normal (Orange-red) |
 | **INTRAOCULAR PRESSURE** | | |
-| • Digital | Normal | Normal |
-| • Schiotz tonometer | - | - |
-| • Applanation tonometer | 17 mmHg | 17 mmHg |
+| • Digital | Normal tension | Normal tension |
+| • Schiotz tonometer | 17.3 mm Hg | 17.3 mm Hg |
+| • Applanation tonometer | Not done | Not done |
 
 ---
 
 ### **DIAGNOSIS & MANAGEMENT**
 
-*   **PROVISIONAL DIAGNOSIS (DDs):**
-    *   Refractive Error (Myopia)
+*   **PROVISIONAL DIAGNOSIS:**
+    *   Refractive Error (Bilateral Myopia)
 
 *   **INVESTIGATIONS:**
-    *   Retinoscopy
-    *   Subjective Refraction
+    *   **Retinoscopy:** To determine the objective refractive status (Gold Standard).
+    *   **Auto-Refractometry (AR):** For baseline refractive error.
+    *   **Subjective Refraction:** Post-mydriatic test (PMT) or subjective acceptance to confirm final glass prescription.
 
 *   **FINAL DIAGNOSIS:**
-    *   Refractive Error (Myopia)
+    *   Refractive Error: Simple Myopia (Both Eyes).
 
 *   **TREATMENT:**
-    *   **Spectacles:** Concave lens prescribed.
-    *   **Advice:** Patient advised regarding LASIK surgery options.
-    *   **Visual Hygiene:** Advised on proper reading distance and lighting.
+    1.  **Optical Correction:** Prescription of concave lenses (Spectacles) based on subjective refraction.
+    2.  **Counseling:** Regarding visual hygiene (reading distance, lighting) and regular follow-up.
+    3.  **Alternatives:** Contact lenses or Refractive Surgery (LASIK/SMILE) can be considered if the patient desires and fits eligibility criteria (stable power, adequate corneal thickness).
