@@ -179,3 +179,146 @@ Patient is conscious, cooperative, and well-oriented to time, place, and person.
     1.  **Optical Correction:** Prescription of concave lenses (Spectacles) based on subjective refraction.
     2.  **Counseling:** Regarding visual hygiene (reading distance, lighting) and regular follow-up.
     3.  **Alternatives:** Contact lenses or Refractive Surgery (LASIK/SMILE) can be considered if the patient desires and fits eligibility criteria (stable power, adequate corneal thickness).
+
+
+
+
+
+
+# Traumatic SCH
+
+**Demographics**
+*   **Date of examination:** 2025/12/26
+*   **Name:** Mrs. Yogi
+*   **Age/Sex:** 43 Years / Female
+*   **Address:** Permanent: Bheerganga; Current: Lalitpur
+*   **Occupation:** (Not specified, likely Homemaker)
+*   **Marital status:** Married
+
+---
+
+### **HISTORY**
+
+*   **Chief presenting complaints:**
+    *   Redness in the left eye for 4 days.
+    *   Swelling over the left supraorbital region for 4 days.
+
+*   **History of present illness:**
+    Patient was apparently well 4 days back when she sustained a blunt trauma due to a fall from bed. Immediately following the trauma, she developed redness in the left eye and swelling over the left eyebrow (supraorbital) region.
+    The redness was sudden in onset, painless (or mild discomfort), and uniform/sectoral in nature. The swelling over the supraorbital region was initially mild but gradually increased in size and is associated with tenderness.
+    *   **Negative History:** No history of decreased vision, diplopia (double vision), photophobia, flashes, floaters, or watering. No history of active bleeding from the site (no open wound).
+    *   **Trauma Specifics:** No history of loss of consciousness (LOC), headache, neck pain, vomiting, or nasal bleeding (epistaxis).
+
+*   **Past history:**
+    *   **Medical History:** Diagnosed case of **Breast Cancer** for 2 years.
+    *   **Surgical History:** Underwent surgery for breast cancer management approximately 1 month ago.
+    *   No history of Hypertension (HTN) or Diabetes Mellitus (DM).
+    *   No history of similar trauma in the past.
+    *   No significant past ocular history.
+
+*   **Personal history:**
+    *   Diet/Sleep/Appetite: Normal.
+    *   Habits: No specific addictions noted.
+
+*   **Treatment history:**
+    *   No specific ocular treatment taken yet.
+    *   Post-op medications for breast surgery (likely).
+
+*   **Drug allergy:**
+    *   No known drug allergies.
+
+**SUMMARY of history with DDs:**
+A 43-year-old female, a known case of breast cancer (post-surgery), presents with a history of blunt trauma (fall from bed) 4 days ago, complaining of localized redness in the left eye and painful swelling over the left supraorbital region, with no visual disturbances or neurological symptoms.
+*   **Differential Diagnosis:** Traumatic Subconjunctival Hemorrhage with Ecchymosis, Orbital rim fracture, Retrobulbar Hemorrhage (unlikely due to no proptosis/vision loss).
+
+---
+
+### **EXAMINATION**
+
+**General physical examination:**
+Patient is conscious, alert, cooperative, and well-oriented to time, place, and person.
+*   **Vitals:** Stable.
+
+**Systemic examination:**
+*   **CNS:** Grossly intact and normal (GCS 15/15).
+*   **CVS/Resp:** Within normal limits.
+
+---
+
+### **OCULAR EXAMINATION**
+
+*   **Head posture:** Normal/Erect.
+*   **Facial symmetry:** Asymmetrical due to swelling on the left side of the forehead.
+*   **Forehead:** Swelling and bruising over the left supraorbital region.
+
+| FEATURE | RIGHT EYE (RE) | LEFT EYE (LE) |
+| :--- | :--- | :--- |
+| **VISUAL ACUITY** | | |
+| • Distance | 6/6 | 6/6 (or slightly reduced if lid swelling obstructs) |
+| • Near | N6 | N6 |
+| **EYEBROWS** | | |
+| • Level | Normal | **Elevated/Distorted due to swelling** |
+| • Cilia | Normal | Normal |
+| **EYEBALLS** | | |
+| • Position | Central | Central |
+| • Size | Normal | Normal |
+| • Alignment | Orthophoric | Orthophoric |
+| • Movements | Full and free in all gazes | Full and free (Rule out restriction) |
+| **EYELIDS** | | |
+| • Position | Normal | Normal |
+| • Skin of lids | Normal | **Ecchymosis (Bluish discoloration) over upper lid** |
+| • Swelling/ tumors | Absent | **Supraorbital swelling present, Tender (+)** |
+| **PALPEBRAL APERTURE** | | |
+| • Width | Normal | Normal (or slightly narrowed due to swelling) |
+| **LACRIMAL APPARATUS** | | |
+| • Lacrimal sac area | Normal | Normal |
+| • Regurgitation test | Negative | Negative |
+| **CONJUNCTIVA** | | |
+| • Congestion | Absent | **Subconjunctival Hemorrhage (Bright red patch)** |
+| • Chemosis | Absent | Mild or Absent |
+| • Discoloration | Normal (Pink) | **Red (Hemorrhagic patch masking sclera)** |
+| **EPISCLERA/ SCLERA** | | |
+| • Discolouration | Normal (White) | Obscured by hemorrhage |
+| • Nodules | Absent | Absent |
+| **CORNEA** | | |
+| • Surface | Smooth and shiny | Smooth and shiny |
+| • Transparency | Transparent | Transparent |
+| • Sensation | Intact | Intact |
+| **ANTERIOR CHAMBER** | | |
+| • Depth | Normal | Normal |
+| • Contents | Clear | Clear (No Hyphema) |
+| **IRIS** | | |
+| • Colour | Dark Brown | Dark Brown |
+| • Pattern | Normal | Normal |
+| **PUPILS** | | |
+| • Size/Shape | Normal, Round | Normal, Round |
+| • Light reflex | Reacts (Direct/Consensual) | Reacts (Direct/Consensual) |
+| **LENS** | | |
+| • Transparency | Clear | Clear |
+| **FUNDUS EXAMINATION** | | |
+| • Media | Clear | Clear |
+| • Background | Normal | Normal (No Commotio Retinae) |
+| **INTRAOCULAR PRESSURE** | | |
+| • Digital | Normal tension | Normal tension |
+
+---
+
+### **DIAGNOSIS & MANAGEMENT**
+
+*   **PROVISIONAL DIAGNOSIS:**
+    *   **Left Eye Traumatic Subconjunctival Hemorrhage (SCH)** with **Left Supraorbital Ecchymosis/Contusion**.
+
+*   **RELEVANT INVESTIGATIONS:**
+    *   **X-ray Orbit (AP/Lateral views):** To rule out supraorbital rim fracture (indicated by bony tenderness).
+    *   **CT Scan Orbit (if needed):** If fracture is suspected on X-ray.
+    *   **Blood Profile:** CBC, PT/INR (To check for coagulation profile, especially given history of Cancer/Surgery).
+
+*   **FINAL DIAGNOSIS:**
+    *   Left Eye Traumatic Subconjunctival Hemorrhage with Soft Tissue Injury (Contusion).
+
+*   **TREATMENT ADVISED:**
+    1.  **Observation:** Condition is self-limiting; hemorrhage usually resolves in 1-2 weeks.
+    2.  **Cold Compress:** Initially to reduce swelling (first 24-48 hours).
+    3.  **Warm Compress:** Later to aid absorption of blood.
+    4.  **Systemic Analgesics:** (e.g., Tab. Paracetamol/Ibuprofen) for pain relief.
+    5.  **Counseling:** Regarding changing colors of the bruise (red -> blue -> green -> yellow) during healing.
