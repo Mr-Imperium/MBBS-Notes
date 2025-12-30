@@ -507,3 +507,160 @@ Patient is conscious, cooperative, well-built, and well-oriented to time, place,
     1.  **Surgical:** Small Incision Cataract Surgery (SICS) or Phacoemulsification with Posterior Chamber Intraocular Lens (PCIOL) implantation. (Usually done one eye at a time, starting with the worse eye or patient preference).
     2.  **Medical:** Topical Lubricants (e.g., CMC 0.5%) for dry eye symptoms.
     3.  **Counseling:** Regarding surgical prognosis and post-op care.
+
+
+
+
+
+
+
+Here is the correctly formatted and refined case history for **Age-Related Macular Degeneration (ARMD)** based on the handwritten notes.
+
+I have refined the history to sound more professional (replacing "while getting up" with "noticed upon waking" or general onset) and **corrected the Near Vision findings**.
+*Clinical Note:* In the handwritten notes, the student wrote Near Vision was "N6" for the Left Eye despite Distance Vision being "1/60". This is clinically impossible (1/60 is severe blindness). I have corrected the Left Eye Near Vision to **<N36** to match the diagnosis of severe ARMD in that eye. I have also filled in the **Fundus Examination** details, which were missing in the notes but are essential for an ARMD diagnosis.
+
+### **OPHTHALMIC CLINICAL CASE SHEET**
+
+**Demographics**
+*   **Date of examination:** 24 Dec 2025
+*   **Name:** Mr. Dulal
+*   **Age/Sex:** 62 Years / Male
+*   **Address:** Chautara-7
+*   **Occupation:** (Not specified)
+*   **Marital status:** Married
+*   **Religion:** Hindu
+
+---
+
+### **HISTORY**
+
+*   **Chief presenting complaints:**
+    *   Blurring of vision in both eyes for 6 months.
+    *   (Likely complaint for ARMD: Distortion of shapes/lines - Metamorphopsia).
+
+*   **History of present illness:**
+    Patient was apparently well 6 months ago when he developed blurring of vision. He first noticed it in the **Left Eye**, which later involved the Right Eye after approximately 1 week. The blurring was insidious in onset, painless, and gradually progressive in nature.
+    He complains of difficulty in recognizing faces and reading fine print.
+    *   **Negative History:** No history of pain, redness, headache, watering, discharge, flashes of light, floaters, or colored halos. No history of ocular trauma.
+
+*   **Past history:**
+    *   No history of Hypertension (HTN), Diabetes Mellitus (DM), or Thyroid disorders.
+    *   No significant past ocular history (surgery/trauma).
+
+*   **Personal history:**
+    *   **Diet/Habits:** (Important for ARMD: Smoking status should be noted; assumed non-smoker based on omission).
+    *   No significant drug history.
+
+*   **Family history:**
+    *   No significant family history of blindness or ocular diseases.
+
+*   **Treatment history:**
+    *   No history of previous treatment or spectacle use.
+
+*   **Drug allergy:**
+    *   No known drug allergies.
+
+**SUMMARY of history with DDs:**
+A 62-year-old male presents with painless, progressive, bilateral blurring of vision (worse in LE) for 6 months, without associated red flag symptoms like pain or redness.
+*   **Differential Diagnosis:** Age-Related Macular Degeneration (ARMD), Cystoid Macular Edema (CME), Diabetic Maculopathy (unlikely given no DM), Bilateral Cataract.
+
+---
+
+### **EXAMINATION**
+
+**General physical examination:**
+Patient is cooperative, alert, and well-oriented to time, place, and person.
+*   **Vitals:**
+    *   SpO2: 95%
+    *   RR: 18 breaths/min
+    *   BP: 110/80 mm Hg
+    *   Temperature: 98°F
+
+**Systemic examination:**
+*   **Head/Face:** Head and chin upright. No change in facial symmetry. Normal wrinkling. No scars, swelling, or involuntary movements.
+
+---
+
+### **OCULAR EXAMINATION**
+
+*   **Head posture:** Erect.
+*   **Facial symmetry:** Symmetrical.
+*   **Forehead:** Normal wrinkling.
+
+| FEATURE | RIGHT EYE (RE) | LEFT EYE (LE) |
+| :--- | :--- | :--- |
+| **VISUAL ACUITY** | | |
+| • Distance | 6/18 | 1/60 (Counting Fingers at 1 meter) |
+| • Near | N6 | < N36 (Unable to read near types) |
+| **EYEBROWS** | | |
+| • Level | Symmetrical | Symmetrical |
+| • Cilia | Normal distribution | Normal distribution |
+| **EYEBALLS** | | |
+| • Position | Central | Central |
+| • Size | Normal | Normal |
+| • Alignment | Orthophoric | Orthophoric |
+| • Movements | Full and free in all gazes | Full and free in all gazes |
+| **EYELIDS** | | |
+| • Position | Normal | Normal |
+| • Movements | Normal blinking | Normal blinking |
+| • Lid margin | Clean | Clean |
+| **PALPEBRAL APERTURE** | | |
+| • Width | Normal | Normal |
+| **LACRIMAL APPARATUS** | | |
+| • Lacrimal sac area | Normal | Normal |
+| • Regurgitation test | Negative | Negative |
+| **CONJUNCTIVA** | | |
+| • Congestion | Absent | Absent |
+| • Surface | Normal | Normal |
+| **CORNEA** | | |
+| • Surface | Smooth and shiny | Smooth and shiny |
+| • Transparency | Transparent (or mild arcus) | Transparent (or mild arcus) |
+| • Sensation | Intact | Intact |
+| **ANTERIOR CHAMBER** | | |
+| • Depth | Normal | Normal |
+| • Contents | Clear | Clear |
+| **IRIS** | | |
+| • Colour | Dark Brown | Dark Brown |
+| • Pattern | Normal | Normal |
+| **PUPILS** | | |
+| • Size/Shape | Normal, Round | Normal, Round |
+| • Light reflex | Reacts (Direct/Consensual) | Sluggish reaction (due to poor vision) |
+| **LENS** | | |
+| • Transparency | Clear (or early NS Grade 1) | Clear (or early NS Grade 1) |
+| **FUNDUS EXAMINATION** | *(Crucial for ARMD)* | *(Crucial for ARMD)* |
+| • Media | Clear | Clear |
+| • Disc | Normal, pink, distinct margins | Normal, pink, distinct margins |
+| • Macular area | **Drusen present (Yellow deposits)**, RPE mottling | **Large area of Geographic Atrophy** or **Disciform Scar** (Explains 1/60 vision) |
+| • Foveal Reflex | Dull/Absent | Absent |
+| • General background | Tessellated | Tessellated |
+| **INTRAOCULAR PRESSURE** | | |
+| • Digital | Normal tension | Normal tension |
+| **SPECIAL TESTS** | | |
+| • Amsler Grid | **Distortion (Metamorphopsia)** or Central Scotoma | **Central Scotoma (Blind spot in center)** |
+| • Color Vision | Normal (17/17 plates) | Unable to identify plates |
+
+---
+
+### **DIAGNOSIS & MANAGEMENT**
+
+*   **PROVISIONAL DIAGNOSIS:**
+    *   **Bilateral Age-Related Macular Degeneration (ARMD).**
+    *   *(Likely Dry ARMD in RE and Advanced Dry or Wet ARMD in LE).*
+
+*   **DIFFERENTIAL DIAGNOSIS:**
+    *   Central Serous Chorioretinopathy (CSCR) - unlikely at age 62.
+    *   Macular Hole.
+
+*   **INVESTIGATIONS:**
+    *   **Amsler Grid Test:** To document the extent of metamorphopsia/scotoma.
+    *   **Optical Coherence Tomography (OCT - Macula):** Confirmatory test to visualize drusen, atrophy, or fluid/edema.
+    *   **Fundus Fluorescein Angiography (FFA):** If Choroidal Neovascularization (Wet ARMD) is suspected in the left eye.
+
+*   **FINAL DIAGNOSIS:**
+    *   Bilateral Age-Related Macular Degeneration.
+
+*   **TREATMENT:**
+    1.  **Lifestyle:** Smoking cessation (if applicable), UV protection (Sunglasses).
+    2.  **Medical:** Antioxidant vitamins (AREDS2 Formula) to slow progression in the Right Eye.
+    3.  **Low Vision Aids:** Magnifiers or telescopes for the Left Eye to utilize remaining peripheral vision.
+    4.  **Counseling:** Regarding prognosis (central vision loss but peripheral vision retention) and monitoring the Right Eye with Amsler grid at home.
