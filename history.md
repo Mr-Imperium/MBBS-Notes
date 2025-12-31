@@ -1,3 +1,165 @@
+Here is the correctly formatted and refined case history for **Ametropia (Myopia) / Glaucoma Suspect** based on the handwritten notes.
+
+I have structured the history strictly according to the provided pattern. I have also ensured the **Pregnancy (14 weeks)** is clearly noted in the Personal History, as this is clinically significant for intraocular pressure and medication choices.
+
+### **OPHTHALMIC CLINICAL CASE SHEET**
+
+**Demographics**
+*   **Date of examination:** (Current Date or Date from image)
+*   **Name:** Chandani Malakar
+*   **Age/Sex:** 35 Years / Female
+*   **Address:** Imadol
+*   **Occupation:** Teacher
+*   **Marital status:** Married
+*   **Religion:** Hindu
+
+---
+
+### **HISTORY**
+
+*   **Chief presenting complaints:**
+    *   Presented for routine ophthalmic evaluation for suspected Glaucoma.
+    *   History of intermittent headache for 15 years.
+
+*   **History of present illness:**
+    Patient presented to the OPD for evaluation of suspected glaucoma. She is a known case of Myopia for the past 10 years and has been using corrective spectacles.
+    She gives a history of intermittent headache for 15 years, occurring approximately once a week. The headache is not associated with nausea, vomiting, or eye ache. There is no diurnal variation and it is not aggravated by dark or light environments. It is aggravated by loud sounds and crowds.
+    *   **Negative History:** She does not complain of any recent decrease in vision (with glasses). No history of ocular pain, redness, itching, watering, photophobia, or foreign body sensation. No history of seeing flashes of light, colored halos, or dark spots.
+
+*   **Past history:**
+    *   **Ocular:** Wearing corrective spectacles for 10 years. No history of trauma or surgery.
+    *   **Medical:** No history of Diabetes Mellitus, Hypertension, or Thyroid disorders.
+
+*   **Personal history:**
+    *   **Physiological Status:** **Currently 14 weeks Pregnant.**
+    *   **Socioeconomic:** Middle class.
+    *   **Habits:** Non-smoker, Non-alcoholic.
+
+*   **Family history:**
+    *   No family history of blindness, cataract, glaucoma, or squint.
+    *   No family history of systemic diseases (DM/HTN).
+
+*   **Treatment history:**
+    *   Currently taking: Tab. Folic Acid, Tab. Calcium, Tab. Ecosprin (Aspirin), and Tab. Duphaston (Dydrogesterone) for pregnancy management.
+
+*   **Drug allergy:**
+    *   No known drug allergies.
+
+**SUMMARY of history with DDs:**
+A 35-year-old female, 14 weeks pregnant, known myope, presents for glaucoma screening with a long-standing history of intermittent, non-ocular headaches.
+*   **Differential Diagnosis:** Refractive Error (Myopia), Glaucoma Suspect, Ocular Migraine.
+
+---
+
+### **EXAMINATION**
+
+**General physical examination:**
+Patient is conscious, well-oriented to time, place, and person, and not in apparent distress.
+*   **Build:** Average.
+
+**Vitals:**
+*   **BP:** 110/80 mm Hg
+*   **SpO2:** 93%
+*   **Pulse:** 114 bpm (Tachycardia noted)
+*   **Temperature:** 98°F
+
+**Systemic examination:**
+*   **CNS/CVS:** Within normal limits.
+
+---
+
+### **OCULAR EXAMINATION**
+
+*   **Head posture:** No abnormal head posture.
+*   **Facial symmetry:** Bilaterally symmetrical.
+*   **Forehead:** Normal wrinkling.
+
+| FEATURE | RIGHT EYE (RE) | LEFT EYE (LE) |
+| :--- | :--- | :--- |
+| **VISUAL ACUITY** | | |
+| • Distance (Unaided) | 6/9 | 6/9 |
+| • Distance (Pinhole/Best Corrected)| 6/6 | 6/6 |
+| • Near | N6 | N6 |
+| **EYEBROWS** | | |
+| • Level | Same level | Same level |
+| • Cilia | Normal, no madarosis | Normal, no madarosis |
+| **EYEBALLS** | | |
+| • Position | Normal in orbit | Normal in orbit |
+| • Size | Normal | Normal |
+| • Alignment | Orthophoric | Orthophoric |
+| • Movements | Full and free in all gazes | Full and free in all gazes |
+| **EYELIDS** | | |
+| • Position | Normal (No ptosis/retraction) | Normal (No ptosis/retraction) |
+| • Lid margin | Healthy | Healthy |
+| • Eyelashes | Normally arranged | Normally arranged |
+| • Skin of lids | Normal | Normal |
+| **PALPEBRAL APERTURE** | | |
+| • Width | 28 mm | 28 mm |
+| • Height | 8 mm | 8 mm |
+| **LACRIMAL APPARATUS** | | |
+| • Puncta | Patent | Patent |
+| • Lacrimal sac area | No swelling | No swelling |
+| • Regurgitation test | Negative | Negative |
+| **CONJUNCTIVA** | | |
+| • Congestion | Absent | Absent |
+| • Appearance | Semi-transparent | Semi-transparent |
+| **EPISCLERA/ SCLERA** | | |
+| • Inflammation | Absent | Absent |
+| • Discolouration | Normal (White) | Normal (White) |
+| **CORNEA** | | |
+| • Surface | Smooth, curvature normal | Smooth, curvature normal |
+| • Transparency | Transparent | Transparent |
+| • Sensations | Intact | Intact |
+| **ANTERIOR CHAMBER** | | |
+| • Depth | Normal (Fully illuminated) | Normal (Fully illuminated) |
+| • Contents | Clear (No hypopyon/hyphema) | Clear (No hypopyon/hyphema) |
+| **IRIS** | | |
+| • Colour | Brown | Brown |
+| • Pattern | Normal | Normal |
+| **PUPILS** | | |
+| • Size/Shape | Round, Regular | Round, Regular |
+| • Light reflex | Direct & Consensual Present | Direct & Consensual Present |
+| • RAPD | Absent | Absent |
+| **LENS** | | |
+| • Transparency | Clear on torchlight | Clear on torchlight |
+| **FUNDUS EXAMINATION** | *(Undilated/Dilated)* | *(Undilated/Dilated)* |
+| • Disc | Normal CDR (Needs monitoring) | Normal CDR (Needs monitoring) |
+| • Macula | Healthy | Healthy |
+| **INTRAOCULAR PRESSURE** | | |
+| • Digital | Slightly Tense/Hard | Slightly Tense/Hard |
+| **SPECIAL TESTS** | | |
+| • Amsler Grid | No distortion/scotoma | No distortion/scotoma |
+| • Color Vision | 17/17 (Normal) | 17/17 (Normal) |
+
+---
+
+### **DIAGNOSIS & MANAGEMENT**
+
+*   **PROVISIONAL DIAGNOSIS:**
+    *   **Ametropic Eyes (Simple Myopia)**
+    *   *Observation:* Glaucoma Suspect (due to tense digital pressure/symptoms).
+
+*   **DIFFERENTIAL DIAGNOSIS:**
+    *   Primary Open Angle Glaucoma (POAG).
+    *   Refractive Error related Headache.
+    *   Ocular Migraine.
+
+*   **RELEVANT INVESTIGATIONS:**
+    *   **Retinoscopy/Refraction:** To confirm myopic power.
+    *   **Applanation Tonometry (Goldmann):** To confirm accurate IOP (Digital pressure was "tense").
+    *   **Gonioscopy:** To evaluate anterior chamber angle.
+    *   **Perimetry (Visual Fields):** To rule out glaucomatous field defects.
+    *   **Ophthalmoscopy:** Detailed evaluation of optic disc (CDR).
+
+*   **FINAL DIAGNOSIS:**
+    *   Ametropia (Myopia).
+
+*   **TREATMENT ADVISED:**
+    1.  **Optical:** Clean glasses regularly; update prescription if changed.
+    2.  **Screening:** Follow up for regular glaucoma screening (IOP, Disc, Fields) annually.
+    3.  **General:** Manage headache with lifestyle modifications (avoid loud sounds/crowds as per history).
+
+
 # RE
 
 **Demographics**
