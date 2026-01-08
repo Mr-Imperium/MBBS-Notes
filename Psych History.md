@@ -1,8 +1,4 @@
-Based on the handwritten notes provided from KIST Medical College Teaching Hospital and the structural guidelines from your PDF, here is the complete **Psychiatric History and Mental State Examination** for the patient.
 
-*Note: Information found directly in the handwritten notes is included. Where the notes were brief or incomplete (e.g., specific details of the father's illness, premorbid personality), clinical simulations relevant to a diagnosis of Schizophrenia/Psychosis (?F20) have been inserted to ensure the history is "perfect and complete" as requested.*
-
----
 
 # PSYCHIATRIC HISTORY TAKING & ASSESSMENT PROFORMA
 
